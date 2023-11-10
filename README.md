@@ -10,7 +10,7 @@ index.js: Implements the form validation logic.
 Usage
 To use this form validation on your own project:
 
-Clone the repository using git clone https://github.com/zanele-nkosi/form-validation.git
+Clone the repository using git clone https://github.com/zanele-nkosi/Form-Validation-JavaScript.git
 Open the index.html file in a web browser or integrate the form into your project.
 Customize the form fields or styles based on your requirements.
 Form Structure
