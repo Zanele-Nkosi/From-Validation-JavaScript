@@ -1,3 +1,9 @@
+##Screenshot
+
+https://github.com/Zanele-Nkosi/From-Validation-JavaScript/blob/main/Screenshot%202023-11-10%20072843.png
+
+
+
 Form Validation
 This project provides a simple form validation using HTML, CSS, and JavaScript. It allows users to enter their username, email, and password, confirming the password for registration.
 
